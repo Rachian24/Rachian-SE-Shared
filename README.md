@@ -4,5 +4,4 @@
 
 ### I opened my own public repository and made my two other teamm members as contributors. I am one of the contributors in Rachian24s public repository.
 
-
-This is Izabela contributing to this repository.
+This is Izabela and I am contributing to this repository.
